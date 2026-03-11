@@ -159,7 +159,7 @@ The resulting OIS discount factors show a smooth, convex decline. At key tenors:
 
 ![alt text](part1_ois_curve.png)
 
-_OIS (SOFR) Discount Curve, $D_o\left(0,T\right)$ for $T\ \in\ \left[0,\ 50\right]$ years. The smooth, convex decay from 1.0 to approximately 0.152 reflects the current upward-sloping yield environment._
+_OIS (SOFR) Discount Curve, $D_o(0,T)$ for $T \in [0, 50]$ years. The smooth, convex decay from 1.0 to approximately 0.152 reflects the current upward-sloping yield environment._
 
 ---
 
